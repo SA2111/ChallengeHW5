@@ -16,14 +16,6 @@ textarea {
   white-space: pre-wrap;
 }
 
-.time-block {
-  border-radius: 15px;
-}
-
-.row {
-  border-top: 1px solid white;
-}
-
 .hour {
   background-color: #ffffff;
   color: #000000;
